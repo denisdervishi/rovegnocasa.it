@@ -70,7 +70,7 @@ a {
         bottom: 0;
         left: 8px;
         right: 8px;
-        background: #ca88aa;
+        background: #F2E3E0;
         height: 5px;
         opacity: 1;
         visibility: visible;
@@ -201,8 +201,8 @@ a {
       border-color: #314d43; }
   .btn.btn-secondary {
     color: #2f2f2f;
-    background: #ca88aa;
-    border-color: #ca88aa; }
+    background: #F2E3E0;
+    border-color: #F2E3E0; }
     .btn.btn-secondary:hover {
       background: #c0598e;
       border-color: #c0598e; }
@@ -380,7 +380,7 @@ a {
     
     .hero-extra-content h3 {
       margin-top: 0;
-      color:#ca88aa;
+      color:#F2E3E0;
       margin-bottom: 20px; /* Increased margin */
     }
     
@@ -485,7 +485,7 @@ a {
       width: 8px;
       height: 8px;
       border-radius: 50%;
-      border: 2px solid #ca88aa;
+      border: 2px solid #F2E3E0;
       position: absolute;
       left: 0;
       top: 8px; }
@@ -573,7 +573,7 @@ a {
       -o-transition: .3s all ease;
       transition: .3s all ease; }
       .testimonial-slider-wrap #testimonial-nav > span:hover {
-        background: #ca88aa;
+        background: #F2E3E0;
         color: #ffffff; }
     .testimonial-slider-wrap #testimonial-nav .prev {
       left: -10px; }
@@ -613,7 +613,7 @@ a {
         transition: .3s all ease;
         background-color: #d6d6d6; }
       .testimonial-slider-wrap .tns-nav button:hover:before, .testimonial-slider-wrap .tns-nav button.tns-nav-active:before {
-        background-color: #ca88aa; }
+        background-color: #F2E3E0; }
 
 .before-footer-section {
   padding: 7rem 0 12rem 0 !important; }
@@ -647,7 +647,7 @@ a {
 
 .footer-section {
   padding: 80px 0;
-  background: #ca88aa ; }
+  background: #F2E3E0 ; }
   .footer-section .relative {
     position: relative; }
   .footer-section a {
@@ -670,7 +670,7 @@ a {
     .footer-section .subscription-form h3 {
       font-size: 18px;
       font-weight: 500;
-      color: #ca88aa; }
+      color: #F2E3E0; }
     .footer-section .subscription-form .form-control {
       height: 50px;
       border-radius: 10px;
@@ -710,7 +710,7 @@ a {
     font-size: 32px;
     font-weight: 500;
     text-decoration: none;
-    color: #ca88aa; }
+    color: #F2E3E0; }
   .footer-section .custom-social li {
     margin: 2px;
     display: inline-block; }
